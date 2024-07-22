@@ -88,7 +88,6 @@ export default function App() {
     }
   };
   
-
   return (
     <GestureHandlerRootView style={styles.container}>
       <View style={styles.imageContainer}>
